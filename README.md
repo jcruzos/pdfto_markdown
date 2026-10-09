@@ -75,11 +75,6 @@ curl -X 'POST' \
 ```
 
 ---
-
-## 🎨 Capturas de Pantalla
-
-*(Aquí puedes añadir capturas de pantalla de la interfaz moderna, el proceso de subida y la previsualización del Markdown).*
-
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT.

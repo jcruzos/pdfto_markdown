@@ -1,6 +1,6 @@
-# MarkItDown PDF
+# pdfto markdown
 
-MarkItDown PDF es una aplicación web full-stack que te permite extraer texto y estructura de documentos PDF con alta precisión y convertirlos instantáneamente a formato Markdown (.md).
+pdfto markdown es una aplicación web full-stack que te permite extraer texto y estructura de documentos PDF con alta precisión y convertirlos instantáneamente a formato Markdown (.md).
 
 ## 🚀 Características
 
@@ -37,7 +37,7 @@ La forma más sencilla de levantar el proyecto es utilizando **Docker** y **Dock
 1. Clona el repositorio en tu máquina local:
    ```bash
    git clone <url-del-repositorio>
-   cd markitdown_pdf
+   cd pdfto_markdown
    ```
 
 2. Construye y levanta los contenedores usando Docker Compose:
